@@ -2,7 +2,7 @@
 
 SPRING BOOT APPLICATION BUILT WITH GRADLE
 
-Run
+Run the application
 
 ./gradlew clean build
 
