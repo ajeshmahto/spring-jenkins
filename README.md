@@ -1,7 +1,7 @@
 # spring-jenkins
 
 
-SPRING BOOT APPLICATION BUILT WITH GRADLE Command
+SPRING BOOT APPLICATION BUILT WITH GRADLE
 
 Run the application
 
